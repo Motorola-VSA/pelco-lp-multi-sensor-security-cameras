@@ -10,8 +10,8 @@ module.exports = {
       xl: '1440px',
     },
     backgroundImage: {
-      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/multi-sensor-security-cameras/07-Optera-Family-Header.jpg')",
-      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/multi-sensor-security-cameras/07-Optera-Family-Header-mobile.jpg')"
+      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/multi-sensor-security-cameras/12.%20Panoramic%20Multi%20Sensor%20Desktop.jpg')",
+      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/multi-sensor-security-cameras/12.%20Panoramic%20Multi%20Sensor%20Mobile.jpg')"
     },
     extend: {
       colors: {
